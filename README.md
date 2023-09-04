@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...react.js
 - 💞️ I’m looking to collaborate on ...react.js
 - 📫 How to reach me ...8247626398
+- Ready to work on Internships
 
 <!---
 yarrucharanteja/yarrucharanteja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
